@@ -83,21 +83,21 @@ os.system("clear")
 print  """
 
 \033[1;97m     T T T T T T T T T T T
-\033[1;92m      I I I I I I I I I I I I I I I I I I 
-\033[1;97m      G G G G G G G G G G
-\033[1;92m      E E E E E E E E E E E E      
-\033[1;92m       R R R R R R R R R R R                                     
+\033[1;92m      I I I I I I I I I I I
+\033[1;97m      G G G G G G G G G G G
+\033[1;92m      E E E E E E E E E E E     
+\033[1;92m       R R R R R R R R R R                                    
 
 """
 
 jalan("\033[1;97m•◈•───────•◈ NOT A NAME ITS BRAND •◈•───────•◈•")  
 
 
-jalan("\033[1;96m•◈• S S S S S S S S S S S S S S S S
+jalan("\033[1;96m•◈• S S S S S S S S S S S S S S S 
 jalan("\033[1;96m•◈• A A A A A A A A A A A A A A A 
 jalan("\033[1;96m•◈• D D D D D D D D D D D D D D D
-jalan("\033[1;96m•◈• I I I I I I I I I I I I I I I I I I I I I I I I I I I
-jalan("\033[1;96m•◈• Q Q Q Q Q Q Q Q Q Q Q Q Q Q                      
+jalan("\033[1;96m•◈• I I I I I I I I I I I I I I I 
+jalan("\033[1;96m•◈• Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q                    
 
 jalan("   \033[1;91m INDAIN USERZ USE ANY PROXY ")	
 jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
